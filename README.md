@@ -1,6 +1,6 @@
 # TEAM 2'S README NOTES
 F2F Tool: Microsoft Teams because we already use this for team discussion and it has built in calling with screenshare.  We also used LiveShare in VisualStudio for convinience in sharing the code.<br>
-URL of Mob:
+URL of Mob: https://youtu.be/HG5wW-tEiKo
 
 
 # Gilded Rose Refactoring Kata
